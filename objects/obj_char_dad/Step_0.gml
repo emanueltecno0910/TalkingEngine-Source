@@ -1,0 +1,1 @@
+if (istalking) {sprite_index = sprite_talk} else {sprite_index = sprite_idle}
